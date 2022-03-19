@@ -36,7 +36,11 @@ Comparing the two school summary screenshots, Thomas High School had a significa
 
 ### Replacing the ninth grade scores affect the following:
  - Math and reading scores by grade level
-   - Both scores were set to NaN for all nineth graders for Thomas High School, they all failed. 
+   - Both scores were set to NaN for all ninth graders for Thomas High School, scores were replaced with zeros. Example below of removing scores for math and the output is NaN:
+
+
+ 
+   
    - Student count before NaN:1635
 
   - Student count with NaN: 1174
