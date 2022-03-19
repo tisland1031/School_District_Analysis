@@ -38,7 +38,7 @@ Comparing the two school summary screenshots, Thomas High School had a significa
  - Math and reading scores by grade level
    - Both scores were set to NaN for all ninth graders for Thomas High School, scores were replaced with zeros. Example below of removing scores for math and the output is NaN:
 
-
+![math](https://user-images.githubusercontent.com/96746207/159135269-04a0a099-30c2-4a10-aecf-70551ccbbb33.png)
  
    
    - Student count before NaN:1635
