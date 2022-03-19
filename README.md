@@ -49,16 +49,14 @@ Comparing the two school summary screenshots, Thomas High School had a significa
 
 
 - Scores by School Spending:
-   - Removing the ninth grade students from Thomas High school reduces the school spending
+   - Removing the ninth grade students from Thomas High school was unaffected by school spending.
  - Scores by School Size:
-   - Removing the ninth grade student reduces the scores for size bucket.
-   
-![before changes](https://user-images.githubusercontent.com/96746207/159136458-19064875-142d-4d0f-9fc8-c40879ddfbee.png)
-
-![after](https://user-images.githubusercontent.com/96746207/159136460-d12cee02-2552-47c7-8eb4-45878d4c455b.png)
-
+   - Removing the ninth grade student didn't affect the school size. 
+      
  - Scores by School Type:
-   - Thomas High School is a charter school. However, no significant changes when comparing the school type when comparing the two data frames.
+   - Thomas High School is a charter school. However, no significant changes when comparing the school type when comparing the two data frames. The avaerage scores stayed the same.
+   
+![Charter_same](https://user-images.githubusercontent.com/96746207/159136882-ee399350-0605-40c7-9494-86afc65247c1.png)
 
 ## Summary
 Four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
