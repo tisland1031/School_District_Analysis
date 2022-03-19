@@ -42,8 +42,10 @@ Comparing the two school summary screenshots, Thomas High School had a significa
  
    - Student count before NaN:1635
 ![count before](https://user-images.githubusercontent.com/96746207/159135886-96d453c5-2c0f-48e6-bcb5-7cd7aa27beac.png)
+
   - Student count with NaN: 1174
-)
+ 
+ ![withNaN](https://user-images.githubusercontent.com/96746207/159136084-9f266a9d-cd0c-46b3-bdae-84b63794ae87.png)
 
 
 - Scores by School Spending:
