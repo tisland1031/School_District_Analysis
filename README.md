@@ -40,11 +40,11 @@ Comparing the two school summary screenshots, Thomas High School had a significa
 
 ![math](https://user-images.githubusercontent.com/96746207/159135269-04a0a099-30c2-4a10-aecf-70551ccbbb33.png)
  
-   
    - Student count before NaN:1635
+![count before](https://user-images.githubusercontent.com/96746207/159135886-96d453c5-2c0f-48e6-bcb5-7cd7aa27beac.png)
 
   - Student count with NaN: 1174
-
+![NaN count](https://user-images.githubusercontent.com/96746207/159135890-3de6bb15-4fa0-40c6-bf4c-9b0239737115.png)
 
  - Scores by School Spending:
    - Removing the ninth grade students from Thomas High school reduces the school spending
