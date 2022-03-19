@@ -8,11 +8,11 @@ The School Board is concerned with academic dishonestly among the ninth grade re
 ## Results
 
 ### District Summary:
-District summary before data was cleaned:
+-  District summary before data was cleaned:
 
 ![District_Summary_before](https://user-images.githubusercontent.com/96746207/159102815-ba8b205a-3229-49ca-917c-6f35b1aaf851.png)
 
-----District summary after excluding ninth grade test results from Thomas High School
+ - District summary after excluding ninth grade test results from Thomas High School
 
 ![District_summary_after](https://user-images.githubusercontent.com/96746207/159102844-983183c2-5a61-44a2-8ec1-5c82453f99e7.png)
 
@@ -20,11 +20,11 @@ District summary before data was cleaned:
 Comparing the above screenshot, minimal change in the district summary once the ninth grade test scores from Thomas High School was eliminated. The district summary isn’t affected by removing the above data.  
 
 ### School Summary:
-----School summary before data was extracted:
+ - School summary before data was extracted:
  
 ![School_summary_before](https://user-images.githubusercontent.com/96746207/159102854-cd76d4e3-b750-4fb3-bfea-9634ab80e519.png)
 	
-----School summary with data extracted:
+ - School summary with data extracted:
 
 ![School_summary_after  png](https://user-images.githubusercontent.com/96746207/159102869-c43459ce-213c-4e00-b4ac-f8de64fdafd3.png)
 
