@@ -36,21 +36,21 @@ Comparing the two school summary screenshots, Thomas High School had a significa
 
 ### Replacing the ninth grade scores affect the following:
  - Math and reading scores by grade level
- - - Both scores were set to NaN for all nineth graders for Thomas High School, they all failed. 
- - - Student count before NaN:1635
+   - Both scores were set to NaN for all nineth graders for Thomas High School, they all failed. 
+   - Student count before NaN:1635
 
- - Student count with NaN: 1174
+  - Student count with NaN: 1174
 
 
  - Scores by School Spending:
- - - Removing the ninth grade students from Thomas High school reduces the school spending
+   - Removing the ninth grade students from Thomas High school reduces the school spending
 
 
  - Scores by School Size:
- - - Removing the ninth grade student reduces the scores for size bucket.
+   - Removing the ninth grade student reduces the scores for size bucket.
 
  - Scores by School Type:
- - - Thomas High School is a charter school. However, no significant changes when comparing the school type when comparing the two data frames.
+   - Thomas High School is a charter school. However, no significant changes when comparing the school type when comparing the two data frames.
 
 ## Summary
 Four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
