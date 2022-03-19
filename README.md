@@ -65,7 +65,7 @@ Four changes in the updated school district analysis after reading and math scor
  3. Scores by school spending had no significant change.
  4. Scores by school type had no change.
 
-Overall, no significate changes occurred in school size, type, spending, and district summary once we replaced the scores of the Thomas High School ninth grade reading and math. However, school summary witnessed the largest disparity. 
+ No significate changes occurred in school size, type, spending, and district summary once we replaced the scores with NaN for Thomas High School ninth grade reading and math scores. However, school summary witnessed the largest disparity,going from second (91%) to eighth (65%) place for overall ranking. 
 
 
 
