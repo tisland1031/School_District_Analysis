@@ -50,10 +50,12 @@ Comparing the two school summary screenshots, Thomas High School had a significa
 
 - Scores by School Spending:
    - Removing the ninth grade students from Thomas High school reduces the school spending
-
-
  - Scores by School Size:
    - Removing the ninth grade student reduces the scores for size bucket.
+   
+![before changes](https://user-images.githubusercontent.com/96746207/159136458-19064875-142d-4d0f-9fc8-c40879ddfbee.png)
+
+![after](https://user-images.githubusercontent.com/96746207/159136460-d12cee02-2552-47c7-8eb4-45878d4c455b.png)
 
  - Scores by School Type:
    - Thomas High School is a charter school. However, no significant changes when comparing the school type when comparing the two data frames.
